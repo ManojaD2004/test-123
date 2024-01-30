@@ -3,5 +3,5 @@ function abc() {
     const dm="hi";
 }
 function xyz() {
-    console.log("Not Hello ok")
+    console.log("Not Hello")
 }
